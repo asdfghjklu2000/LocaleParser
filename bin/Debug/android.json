@@ -1,0 +1,88 @@
+{
+	"showFacebook":"1",
+	"showTwitter":"1",
+	"showWeibo":"1",
+	"showEmail":"0",
+	"showFeedPublish":"1",
+	"showOpenGraph":1,
+	"enableAutoOpenGraph":1,
+	"api_url":"https:\/\/zh.towerofsaviors.com\/api\/",
+	"analytics_id":"UA-37441005-4",
+	"dfp_id":"\/4259741\/tos_zh",
+	"patch_url_ios":"http:\/\/madhead-dd.myserver.asia\/tospatch\/1743aQx1GRwGCDugC\/ios1e81mcKtl92e",
+	"patch_url_android":"http:\/\/madhead-dd.myserver.asia\/tospatch\/1743aQx1GRwGCDugC\/an56K2CETShusc",
+	"patch_url_ios_list":[
+		"http:\/\/madhead-dd.myserver.asia\/tospatch\/1743aQx1GRwGCDugC\/ios1e81mcKtl92e"
+	],
+	"patch_url_android_list":[
+		"http:\/\/madhead-dd.myserver.asia\/tospatch\/1743aQx1GRwGCDugC\/an56K2CETShusc"
+	],
+	"support_url":"http:\/\/config.towerofsaviors.com\/support\/zh\/@uid?extras=@extras&type=@type&sysInfo=@sysInfo&external=@external",
+	"sample_percentage":2,
+	"ac_control":1,
+	"ac_count":3600,
+	"ac_setting":1,
+	"self_check":63,
+	"metaps_tracking":0,
+	"push_after_stage":5,
+	"enable_vpon":0,
+	"fb_app_event_blacklist":[
+		
+	],
+	"fb_app_event_sample_percentage":100,
+	"appsflyer_id":"EF57ZSnkSyE7ChwEDKrHm9",
+	"flurry_id":"WQ9W7MNJSHV92TKCN9FF",
+	"stopNewRegister":0,
+	"menuItems":[
+		{
+			"name":"\u5b98\u65b9\u7db2\u7ad9",
+			"nameEn":"Official Channel",
+			"subMenu":[
+				{
+					"name":"\u795e\u9b54\u4e4b\u5854\u5b98\u65b9\u7db2\u7ad9",
+					"url":"http:\/\/www.towerofsaviors.com\/zh\/",
+					"useWebview":false,
+					"nameEn":"TOS Official Website",
+					"urlEn":"https:\/\/en.towerofsaviors.com"
+				},
+				{
+					"name":"\u795e\u9b54\u4e4b\u5854 Facebook \u7c89\u7d72\u5718",
+					"url":"https:\/\/www.facebook.com\/tos.zh",
+					"useWebview":false,
+					"nameEn":"TOS Facebook Fans Page",
+					"urlEn":"https:\/\/www.facebook.com\/TowerOfSaviors"
+				},
+				{
+					"name":"\u795e\u9b54\u4e4b\u5854 LINE \u5b98\u65b9\u5e33\u6236",
+					"url":"http:\/\/bit.ly\/tosoa",
+					"useWebview":false,
+					"nameEn":"TOS Official Line",
+					"urlEn":"http:\/\/bit.ly\/tosoa"
+				},
+				{
+					"name":"\u795e\u9b54\u4e4b\u5854 Instagram \u5b98\u65b9\u5e33\u6236",
+					"url":"http:\/\/instagram.com\/tos_zh",
+					"useWebview":false,
+					"nameEn":"TOS Official Instagram",
+					"urlEn":"http:\/\/www.instagram.com\/towerofsaviors\/"
+				},
+				{
+					"name":"\u795e\u9b54\u4e4b\u5854 Youtube \u983b\u9053",
+					"url":"https:\/\/www.youtube.com\/user\/towerofsaviors",
+					"useWebview":false,
+					"nameEn":"TOS Official Youtube Channel",
+					"urlEn":"https:\/\/www.youtube.com\/user\/towerofsaviors"
+				}
+			]
+		},
+		{
+			"name":"\u65b0\u624b\u6559\u5b78",
+			"url":"http:\/\/www.towerofsaviors.com\/zh\/tutorial",
+			"useWebview":false,
+			"nameEn":"Tutorial",
+			"urlEn":"http:\/\/www.towerofsaviors.com\/en\/tutorial"
+		}
+	],
+	"website_url":"http:\/\/www.towerofsaviors.com\/zh",
+	"community_url":"http:\/\/www.towerofsaviors.com\/zh\/community#summoner-groups"
+}

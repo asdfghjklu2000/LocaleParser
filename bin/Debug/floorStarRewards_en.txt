@@ -1,0 +1,11 @@
+col_1|col_2|col_3|col_4|col_5
+3|1296|3 ★ - Specified card|0|0
+6|1296|6 ★ - Baby Harpy x 2|0|0
+9|1296|9 ★ - 1 Diamond|0|0
+12|1296|12 ★ - 100 souls|0|0
+3|1912|3 ★ - Baby Harpy x 2|0|0
+6|1912|6 ★ - Craft - Spiral Suspire Pattern|0|0
+9|1912|9 ★ - 1 Diamond|0|0
+12|1912|12 ★ - 150 souls|0|0
+3|1050|3 ★ - Craft - Successive Vicious Opal|0|0
+3|904|3 ★ - 500 souls|0|0

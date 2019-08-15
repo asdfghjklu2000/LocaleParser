@@ -1,0 +1,47 @@
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\LocaleParser.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\LocaleParser.exe.manifest
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\LocaleParser.application
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\LocaleParser.exe
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\LocaleParser.pdb
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\ICSharpCode.SharpZipLib.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\NPOI.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\NPOI.OOXML.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\NPOI.OpenXml4Net.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\NPOI.OpenXmlFormats.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Release\NPOI.xml
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.FrmMain.resources
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.TrustInfo.xml
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.exe.manifest
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.application
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.exe
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Release\LocaleParser.pdb
+D:\LocaleParser\LocaleParser\bin\Release\TosPatcher.exe.config
+D:\LocaleParser\LocaleParser\bin\Release\TosPatcher.exe.manifest
+D:\LocaleParser\LocaleParser\bin\Release\TosPatcher.application
+D:\LocaleParser\LocaleParser\bin\Release\TosPatcher.exe
+D:\LocaleParser\LocaleParser\bin\Release\TosPatcher.pdb
+D:\LocaleParser\LocaleParser\bin\Release\Assembly-CSharp-firstpass.dll
+D:\LocaleParser\LocaleParser\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\LocaleParser\LocaleParser\bin\Release\Newtonsoft.Json.dll
+D:\LocaleParser\LocaleParser\bin\Release\NPOI.dll
+D:\LocaleParser\LocaleParser\bin\Release\NPOI.OOXML.dll
+D:\LocaleParser\LocaleParser\bin\Release\NPOI.OpenXml4Net.dll
+D:\LocaleParser\LocaleParser\bin\Release\NPOI.OpenXmlFormats.dll
+D:\LocaleParser\LocaleParser\bin\Release\Newtonsoft.Json.pdb
+D:\LocaleParser\LocaleParser\bin\Release\Newtonsoft.Json.xml
+D:\LocaleParser\LocaleParser\bin\Release\NPOI.xml
+D:\LocaleParser\LocaleParser\obj\Release\LocaleParser.FrmMain.resources
+D:\LocaleParser\LocaleParser\obj\Release\LocaleParser.FrmPatcher.resources
+D:\LocaleParser\LocaleParser\obj\Release\LocaleParser.Properties.Resources.resources
+D:\LocaleParser\LocaleParser\obj\Release\LocaleParser.csproj.GenerateResource.Cache
+D:\LocaleParser\LocaleParser\obj\Release\TosPatcher.TrustInfo.xml
+D:\LocaleParser\LocaleParser\obj\Release\TosPatcher.exe.manifest
+D:\LocaleParser\LocaleParser\obj\Release\TosPatcher.application
+D:\LocaleParser\LocaleParser\obj\Release\TosPatcher.exe
+D:\LocaleParser\LocaleParser\obj\Release\TosPatcher.pdb
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Release\TosPatcher.exe.config
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Release\TosPatcher.exe
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Release\TosPatcher.pdb

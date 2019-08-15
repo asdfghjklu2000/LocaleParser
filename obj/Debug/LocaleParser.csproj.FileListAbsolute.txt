@@ -1,0 +1,141 @@
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmMain.resources
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.exe
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.pdb
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\LocaleParser.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\LocaleParser.exe.manifest
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\LocaleParser.application
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\LocaleParser.exe
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\LocaleParser.pdb
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\NPOI.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\NPOI.OOXML.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\bin\Debug\NPOI.xml
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.TrustInfo.xml
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.exe.manifest
+c:\users\alex\documents\visual studio 2015\Projects\LocaleParser\LocaleParser\obj\Debug\LocaleParser.application
+D:\LocaleParser\LocaleParser\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\LocaleParser\LocaleParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LocaleParser\LocaleParser\bin\Debug\NPOI.dll
+D:\LocaleParser\LocaleParser\bin\Debug\NPOI.OOXML.dll
+D:\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXml4Net.dll
+D:\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\LocaleParser\LocaleParser\bin\Debug\NPOI.xml
+D:\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csprojResolveAssemblyReference.cache
+D:\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmMain.resources
+D:\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmPatcher.resources
+D:\LocaleParser\LocaleParser\obj\Debug\LocaleParser.Properties.Resources.resources
+D:\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csproj.GenerateResource.Cache
+D:\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.dll
+D:\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.pdb
+D:\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.xml
+D:\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.config
+D:\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.manifest
+D:\LocaleParser\LocaleParser\bin\Debug\TosPatcher.application
+D:\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe
+D:\LocaleParser\LocaleParser\bin\Debug\TosPatcher.pdb
+D:\LocaleParser\LocaleParser\obj\Debug\TosPatcher.TrustInfo.xml
+D:\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe.manifest
+D:\LocaleParser\LocaleParser\obj\Debug\TosPatcher.application
+D:\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe
+D:\LocaleParser\LocaleParser\obj\Debug\TosPatcher.pdb
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.config
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\TosPatcher.pdb
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.manifest
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\TosPatcher.application
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\TosPatcher.pdb
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\NPOI.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\NPOI.OOXML.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\bin\Debug\NPOI.xml
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmMain.resources
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmPatcher.resources
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.Properties.Resources.resources
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\TosPatcher.TrustInfo.xml
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe.manifest
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\TosPatcher.application
+C:\Users\Alex\Downloads\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmCutter.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmCutter.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmFrameChooser.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmMain.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.FrmPatcher.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.Properties.Resources.resources
+F:\產品\LocaleParser\LocaleParser\obj\Debug\LocaleParser.csproj.GenerateResource.Cache
+F:\產品\LocaleParser\LocaleParser\obj\Debug\TosPatcher.TrustInfo.xml
+F:\產品\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe.manifest
+F:\產品\LocaleParser\LocaleParser\obj\Debug\TosPatcher.exe
+F:\產品\LocaleParser\LocaleParser\obj\Debug\TosPatcher.pdb
+F:\產品\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.config
+F:\產品\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe.manifest
+F:\產品\LocaleParser\LocaleParser\bin\Debug\TosPatcher.application
+F:\產品\LocaleParser\LocaleParser\bin\Debug\TosPatcher.exe
+F:\產品\LocaleParser\LocaleParser\bin\Debug\TosPatcher.pdb
+F:\產品\LocaleParser\LocaleParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\NPOI.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\NPOI.OOXML.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXml4Net.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\System.Configuration.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\System.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\System.Xml.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.pdb
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Newtonsoft.Json.xml
+F:\產品\LocaleParser\LocaleParser\bin\Debug\NPOI.xml
+F:\產品\LocaleParser\LocaleParser\obj\Debug\TosPatcher.application
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Assembly-CSharp.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.CoreModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UI.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.AudioModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.AnimationModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Unity.Compat.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Firebase.App.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Facebook.Unity.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UIModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Assembly-UnityScript-firstpass.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Crypto.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Photon3Unity3D.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Firebase.Messaging.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Unity.Tasks.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\P31RestKit.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Facebook.Unity.Settings.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\Boo.Lang.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.AIModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.DirectorModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.ARModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.VRModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.InputModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.TerrainModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.TilemapModule.dll
+F:\產品\LocaleParser\LocaleParser\bin\Debug\UnityEngine.VideoModule.dll

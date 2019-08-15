@@ -1,0 +1,4 @@
+{
+	"respond":0,
+	"errorMessage":"You have signed in another device."
+}
